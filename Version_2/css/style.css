@@ -1,0 +1,78 @@
+.my-row {
+	background: white;
+	width: 100%;
+	min-height: 350px;
+	border-right: 1px solid #3366ff;
+	padding: 10px;
+}
+
+h4 {
+	display: inline-block;
+	font-weight: bold;
+}
+
+.container {
+	border: 4px solid #3366ff;
+	width: 600px;
+}
+
+.blue {	
+	background: #3366ff;
+	width: 36px;
+	height: 36px;
+	display: inline-block;
+}
+
+.hello-2 {
+	padding-left:  50px;
+	position: absolute;
+	top:55px;
+
+}
+
+.hello-3 {
+	padding-left:  40px;
+	position: absolute;
+	top:150px;
+}
+
+.hello-4 {
+	padding-left:  30px;
+	position: absolute;
+	top:50px;
+}
+
+.blue-2 {
+	position: relative;
+	z-index: 2;
+	background: #3366ff;
+	width: 36px;
+	height: 36px;
+	display: inline-block;
+	top: 20px;
+	left: -20px;
+}
+
+.paragraf {
+	position: relative;
+	z-index: 5;
+	top: 20px;
+}
+
+.blue-3 {
+	position: relative;
+	z-index: 2;
+	background: #3366ff;
+	width: 36px;
+	height: 36px;
+	display: inline-block;
+	top: 20px;
+	left: -60px;
+}
+
+.hello-5 {
+	padding-left:  30px;
+	vertical-align: middle;
+	padding-top: 115px;
+}
+
